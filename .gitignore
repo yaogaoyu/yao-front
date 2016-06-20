@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!Gulpfile.js
+!package.json
+!README.md
+
+!node_modules/
+!js/
+!pug/
+!scss/
+!var/
